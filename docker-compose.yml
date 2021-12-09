@@ -36,4 +36,3 @@ services:
         PMA_HOST: mysql
     depends_on:
         - mysql
-
